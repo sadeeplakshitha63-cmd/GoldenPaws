@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+    <title>GoldenPaws Expert Guides</title>
+    <link>https://sadeeplakshitha63-cmd.github.io/GoldenPaws</link>
+    <description>The ultimate resource for Golden Retriever owners. Deep-dive guides on food, health, and training.</description>
+    
+    <item>
+        <title>Best Organic Food for Golden Retriever Puppies in 2026</title>
+        <link>https://sadeeplakshitha63-cmd.github.io/GoldenPaws/article-food.html</link>
+        <description>We spent 40 hours comparing ingredient lists, sourcing methods, and real-owner feedback to find the absolute best organic blends for sensitive Golden tummies.</description>
+        <pubDate>Mon, 05 Apr 2026 12:00:00 +0000</pubDate>
+        <media:content url="https://images.unsplash.com/photo-1597843786411-a7fa8ad44a95?auto=format&fit=crop&q=80&w=1200" medium="image"/>
+    </item>
+
+    <item>
+        <title>How to Potty Train a Golden Retriever in 7 Days</title>
+        <link>https://sadeeplakshitha63-cmd.github.io/GoldenPaws/#training</link>
+        <description>If you're exhausted from cleaning up indoor accidents, you aren't alone. Here’s a modern, stress-free routine we tested that actually clicks with a Golden's eager-to-please psychology.</description>
+        <pubDate>Sun, 04 Apr 2026 12:00:00 +0000</pubDate>
+        <media:content url="https://images.unsplash.com/photo-1546975490-e8b92a360b24?auto=format&fit=crop&q=80&w=1200" medium="image"/>
+    </item>
+
+    <item>
+        <title>The 3 Most Common Health Problems in Golden Retrievers</title>
+        <link>https://sadeeplakshitha63-cmd.github.io/GoldenPaws/#health</link>
+        <description>We all dread the vet bills, but early prevention is everything. We analyzed veterinary data to break down joint dysplasia, skin allergies, and heart issues.</description>
+        <pubDate>Sat, 03 Apr 2026 12:00:00 +0000</pubDate>
+        <media:content url="https://images.unsplash.com/photo-1537151608804-ea2f1fa3f20d?auto=format&fit=crop&q=80&w=1200" medium="image"/>
+    </item>
+
+    <item>
+        <title>Golden Retriever vs Labrador: Which is Best for Apartment Living?</title>
+        <link>https://sadeeplakshitha63-cmd.github.io/GoldenPaws/#compare</link>
+        <description>Thinking of bringing a large breed into a smaller space? We break down energy levels, barking tendencies, and exercise needs between these two beloved breeds.</description>
+        <pubDate>Fri, 02 Apr 2026 12:00:00 +0000</pubDate>
+        <media:content url="https://images.unsplash.com/photo-1601979031925-424e53b6caaa?auto=format&fit=crop&q=80&w=1200" medium="image"/>
+    </item>
+    
+</channel>
+</rss>
